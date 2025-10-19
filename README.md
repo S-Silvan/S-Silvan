@@ -3,7 +3,6 @@
 ## About me
 - 🔭 I’m currently working as a Full-stack developer at @NIQ
 - 🌱 I’m learning DevOps
-- 👯 I’m looking to collaborate on 
 - 💬 Ask me about Angular, Java, Springboot, Microservices.
 - 📫 How to reach me: silvan8124@gmail.com or [LinkedIn](https://www.linkedin.com/in/silvan2298/)
 
