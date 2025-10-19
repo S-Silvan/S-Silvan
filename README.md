@@ -1,7 +1,7 @@
 # Hi, I’m Silvan S 👋
 
 ## About me
-- 🔭 I’m currently working on the Retail Trends Analytical Stats Application
+- 🔭 I’m currently working on the Retail Analytical Stats Application
 - 🌱 I’m learning DevOps
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about Angular, Java, Springboot, Microservices.
