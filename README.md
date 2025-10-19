@@ -12,7 +12,6 @@
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Silvan&show_icons=true&theme=dark)](https://github.com/S-Silvan)
-<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Silvan&layout=compact&theme=dark)](https://github.com/S-Silvan)
 
 ## Current status
