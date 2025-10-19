@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m S-Silvan 👋
 
-<!--
-**S-Silvan/S-Silvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Silvan&show_icons=true&theme=default)](https://github.com/S-Silvan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Silvan&layout=compact&theme=default)](https://github.com/S-Silvan)
 
-Here are some ideas to get you started:
+## About me
+- 🔭 I’m currently working on...
+- 🌱 I’m learning DevOps
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about Angular, Java, Springboot, Microservices.
+- 📫 How to reach me: silvan8124@gmail.com or [LinkedIn](https://www.linkedin.com/in/silvan2298/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- [Portfolio]([https://github.com/S-Silvan/project-one](https://s-silvan.github.io/)) 
+
+## Current status
+- 🔧 Working on: project-one
+- 🎯 Goals: improve AI and ML skills, contribute to AI and ML
+
+<!-- LAST_UPDATED: 2025-10-19T00:00:00Z -->
