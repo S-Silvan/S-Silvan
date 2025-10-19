@@ -1,4 +1,4 @@
-# Hi, I’m S-Silvan 👋
+# Hi, I’m Silvan S 👋
 
 ## About me
 - 🔭 I’m currently working on the Retail Trends Analytical Stats Application
