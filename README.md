@@ -1,7 +1,7 @@
 # Hi, I’m S-Silvan 👋
 
 ## About me
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on the Retail Trends Analytical Stats Application
 - 🌱 I’m learning DevOps
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about Angular, Java, Springboot, Microservices.
