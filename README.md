@@ -15,6 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Silvan&layout=compact&theme=dark)](https://github.com/S-Silvan)
 
 ## Current status
-- 🎯 Goals: learn AI and ML
+- 🎯 Goals: Learn AI and ML
 
 <!-- LAST_UPDATED: 2025-10-19T00:00:00Z -->
