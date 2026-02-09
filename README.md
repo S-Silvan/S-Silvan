@@ -12,14 +12,6 @@
   <a href="https://s-silvan.github.io/"> <img alt="Medium" src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge"/></a>
 </div>
 
-## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Silvan&show_icons=true&theme=dark)](https://github.com/S-Silvan)
-<br>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silvan-S&theme=tokyonight" />
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Silvan&layout=compact&theme=dark)](https://github.com/S-Silvan)
-
-
 ## Current status
 - 🔧 Working on: project-one
 - 🎯 Goals: improve AI and ML skills, contribute to AI and ML
